@@ -1,8 +1,8 @@
 
-Codex Storage Proofs for the MVP
+Archivist Storage Proofs for the MVP
 ================================
 
-This document describes the storage proof system for the Codex 2023 Q4 MVP.
+This document describes the storage proof system for the Archivist 2023 Q4 MVP.
 
 
 Repo organization
